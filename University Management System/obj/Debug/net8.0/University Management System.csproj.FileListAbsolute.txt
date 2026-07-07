@@ -1,0 +1,15 @@
+C:\Users\fathi\OneDrive\Desktop\Backend-coding\BackEnd Tasks\University Management System\bin\Debug\net8.0\University Management System.exe
+C:\Users\fathi\OneDrive\Desktop\Backend-coding\BackEnd Tasks\University Management System\bin\Debug\net8.0\University Management System.deps.json
+C:\Users\fathi\OneDrive\Desktop\Backend-coding\BackEnd Tasks\University Management System\bin\Debug\net8.0\University Management System.runtimeconfig.json
+C:\Users\fathi\OneDrive\Desktop\Backend-coding\BackEnd Tasks\University Management System\bin\Debug\net8.0\University Management System.dll
+C:\Users\fathi\OneDrive\Desktop\Backend-coding\BackEnd Tasks\University Management System\bin\Debug\net8.0\University Management System.pdb
+C:\Users\fathi\OneDrive\Desktop\Backend-coding\BackEnd Tasks\University Management System\obj\Debug\net8.0\University Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fathi\OneDrive\Desktop\Backend-coding\BackEnd Tasks\University Management System\obj\Debug\net8.0\University Management System.AssemblyInfoInputs.cache
+C:\Users\fathi\OneDrive\Desktop\Backend-coding\BackEnd Tasks\University Management System\obj\Debug\net8.0\University Management System.AssemblyInfo.cs
+C:\Users\fathi\OneDrive\Desktop\Backend-coding\BackEnd Tasks\University Management System\obj\Debug\net8.0\University Management System.csproj.CoreCompileInputs.cache
+C:\Users\fathi\OneDrive\Desktop\Backend-coding\BackEnd Tasks\University Management System\obj\Debug\net8.0\University Management System.sourcelink.json
+C:\Users\fathi\OneDrive\Desktop\Backend-coding\BackEnd Tasks\University Management System\obj\Debug\net8.0\University Management System.dll
+C:\Users\fathi\OneDrive\Desktop\Backend-coding\BackEnd Tasks\University Management System\obj\Debug\net8.0\refint\University Management System.dll
+C:\Users\fathi\OneDrive\Desktop\Backend-coding\BackEnd Tasks\University Management System\obj\Debug\net8.0\University Management System.pdb
+C:\Users\fathi\OneDrive\Desktop\Backend-coding\BackEnd Tasks\University Management System\obj\Debug\net8.0\University Management System.genruntimeconfig.cache
+C:\Users\fathi\OneDrive\Desktop\Backend-coding\BackEnd Tasks\University Management System\obj\Debug\net8.0\ref\University Management System.dll
