@@ -43,11 +43,11 @@ namespace E_Commerce_Website_System.Models
 
         // Navigation Property
 
-        public Category productCategory { get; set; }
+        public virtual Category productCategory { get; set; }
 
-        public ICollection<Review> productReviews { get; set; } 
+        public virtual ICollection<Review> productReviews { get; set; } 
 
-        public ICollection<OrderProduct> productOrders { get; set; } 
+        public virtual ICollection<OrderProduct> orderProducts { get; set; } 
 
     }
 }

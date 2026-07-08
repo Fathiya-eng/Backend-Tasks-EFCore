@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{7DB23FD3-9359-446F-ACDA-E5337C0027C3}|E-Commerce Website System\\E-Commerce Website System.csproj|solutionrelative:e-commerce website system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DB23FD3-9359-446F-ACDA-E5337C0027C3}|E-Commerce Website System\\E-Commerce Website System.csproj|c:\\users\\fathi\\onedrive\\desktop\\backend-coding\\backend tasks\\e-commerce website system\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DB23FD3-9359-446F-ACDA-E5337C0027C3}|E-Commerce Website System\\E-Commerce Website System.csproj|solutionrelative:e-commerce website system\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7DB23FD3-9359-446F-ACDA-E5337C0027C3}|E-Commerce Website System\\E-Commerce Website System.csproj|c:\\users\\fathi\\onedrive\\desktop\\backend-coding\\backend tasks\\e-commerce website system\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DB23FD3-9359-446F-ACDA-E5337C0027C3}|E-Commerce Website System\\E-Commerce Website System.csproj|solutionrelative:e-commerce website system\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB23FD3-9359-446F-ACDA-E5337C0027C3}|E-Commerce Website System\\E-Commerce Website System.csproj|c:\\users\\fathi\\onedrive\\desktop\\backend-coding\\backend tasks\\e-commerce website system\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB23FD3-9359-446F-ACDA-E5337C0027C3}|E-Commerce Website System\\E-Commerce Website System.csproj|solutionrelative:e-commerce website system\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7DB23FD3-9359-446F-ACDA-E5337C0027C3}|E-Commerce Website System\\E-Commerce Website System.csproj|c:\\users\\fathi\\onedrive\\desktop\\backend-coding\\backend tasks\\e-commerce website system\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,8 +35,8 @@
       "RelativeMoniker": "D:0:0:{7DB23FD3-9359-446F-ACDA-E5337C0027C3}|E-Commerce Website System\\E-Commerce Website System.csproj|solutionrelative:e-commerce website system\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fathi\\OneDrive\\Desktop\\Backend-coding\\BackEnd Tasks\\E-Commerce Website System\\Migrations\\20260707083710_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-Commerce Website System\\Migrations\\20260707083710_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DB23FD3-9359-446F-ACDA-E5337C0027C3}|E-Commerce Website System\\E-Commerce Website System.csproj|c:\\users\\fathi\\onedrive\\desktop\\backend-coding\\backend tasks\\e-commerce website system\\migrations\\20260707083710_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB23FD3-9359-446F-ACDA-E5337C0027C3}|E-Commerce Website System\\E-Commerce Website System.csproj|solutionrelative:e-commerce website system\\migrations\\20260707083710_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,8 +46,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -56,14 +60,10 @@
               "RelativeDocumentMoniker": "E-Commerce Website System\\Program.cs",
               "ToolTip": "C:\\Users\\fathi\\OneDrive\\Desktop\\Backend-coding\\BackEnd Tasks\\E-Commerce Website System\\Program.cs",
               "RelativeToolTip": "E-Commerce Website System\\Program.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAowJsAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAABwBAAAAAAAAAAAmwDQAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-07T09:51:21.402Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
@@ -86,7 +86,7 @@
               "RelativeDocumentMoniker": "E-Commerce Website System\\ECommerceContext.cs",
               "ToolTip": "C:\\Users\\fathi\\OneDrive\\Desktop\\Backend-coding\\BackEnd Tasks\\E-Commerce Website System\\ECommerceContext.cs",
               "RelativeToolTip": "E-Commerce Website System\\ECommerceContext.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-07T08:21:41.095Z",
               "EditorCaption": ""
@@ -99,7 +99,7 @@
               "RelativeDocumentMoniker": "E-Commerce Website System\\Models\\OrderProduct.cs",
               "ToolTip": "C:\\Users\\fathi\\OneDrive\\Desktop\\Backend-coding\\BackEnd Tasks\\E-Commerce Website System\\Models\\OrderProduct.cs",
               "RelativeToolTip": "E-Commerce Website System\\Models\\OrderProduct.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-01T08:36:58.16Z",
               "EditorCaption": ""
@@ -112,7 +112,7 @@
               "RelativeDocumentMoniker": "E-Commerce Website System\\Models\\Review.cs",
               "ToolTip": "C:\\Users\\fathi\\OneDrive\\Desktop\\Backend-coding\\BackEnd Tasks\\E-Commerce Website System\\Models\\Review.cs",
               "RelativeToolTip": "E-Commerce Website System\\Models\\Review.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-01T06:13:42.304Z",
               "EditorCaption": ""
@@ -125,7 +125,7 @@
               "RelativeDocumentMoniker": "E-Commerce Website System\\Models\\Order.cs",
               "ToolTip": "C:\\Users\\fathi\\OneDrive\\Desktop\\Backend-coding\\BackEnd Tasks\\E-Commerce Website System\\Models\\Order.cs",
               "RelativeToolTip": "E-Commerce Website System\\Models\\Order.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAswCsAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAA2wCkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-01T06:13:21.824Z",
               "EditorCaption": ""
@@ -138,33 +138,33 @@
               "RelativeDocumentMoniker": "E-Commerce Website System\\Models\\Product.cs",
               "ToolTip": "C:\\Users\\fathi\\OneDrive\\Desktop\\Backend-coding\\BackEnd Tasks\\E-Commerce Website System\\Models\\Product.cs",
               "RelativeToolTip": "E-Commerce Website System\\Models\\Product.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwB4AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-01T06:12:59.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\fathi\\OneDrive\\Desktop\\Backend-coding\\BackEnd Tasks\\E-Commerce Website System\\Models\\Category.cs",
               "RelativeDocumentMoniker": "E-Commerce Website System\\Models\\Category.cs",
               "ToolTip": "C:\\Users\\fathi\\OneDrive\\Desktop\\Backend-coding\\BackEnd Tasks\\E-Commerce Website System\\Models\\Category.cs",
               "RelativeToolTip": "E-Commerce Website System\\Models\\Category.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-01T06:12:43.144Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\fathi\\OneDrive\\Desktop\\Backend-coding\\BackEnd Tasks\\E-Commerce Website System\\Models\\User.cs",
               "RelativeDocumentMoniker": "E-Commerce Website System\\Models\\User.cs",
               "ToolTip": "C:\\Users\\fathi\\OneDrive\\Desktop\\Backend-coding\\BackEnd Tasks\\E-Commerce Website System\\Models\\User.cs",
               "RelativeToolTip": "E-Commerce Website System\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-01T06:10:58.946Z",
               "EditorCaption": ""

@@ -43,8 +43,8 @@ namespace E_Commerce_Website_System.Models
 
         // Navigation Properties
 
-        public ICollection<Order> userOrders { get; set; } 
+        public virtual ICollection<Order> userOrders { get; set; } 
 
-        public ICollection<Review> userReviews { get; set; } 
+        public virtual ICollection<Review> userReviews { get; set; } 
     }
 }

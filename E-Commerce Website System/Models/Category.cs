@@ -26,6 +26,6 @@ namespace E_Commerce_Website_System.Models
 
         // Navigation Property
 
-        public ICollection<Product> categoryProducts { get; set; } 
+        public virtual ICollection<Product> categoryProducts { get; set; } 
     }
 }

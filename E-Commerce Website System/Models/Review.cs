@@ -32,8 +32,8 @@ namespace E_Commerce_Website_System.Models
 
         // Navigation Properties
 
-        public User reviewUser { get; set; }
+        public virtual User reviewUser { get; set; }
 
-        public Product reviewProduct { get; set; }
+        public virtual Product reviewProduct { get; set; }
     }
 }

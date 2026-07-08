@@ -40,8 +40,8 @@ namespace E_Commerce_Website_System.Models
 
         // Navigation Properties
 
-        public Order order { get; set; }
+        public virtual Order order { get; set; }
 
-        public Product product { get; set; }
+        public virtual Product product { get; set; }
     }
 }

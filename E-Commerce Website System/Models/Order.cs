@@ -39,9 +39,9 @@ namespace E_Commerce_Website_System.Models
 
         // Navigation Property
 
-        public User orderUser { get; set; }
+        public virtual User orderUser { get; set; }
 
-        public ICollection<OrderProduct> orderProducts { get; set; } 
+        public virtual ICollection<OrderProduct> orderProducts { get; set; } 
 
     }
 }
